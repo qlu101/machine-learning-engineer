@@ -1,4 +1,4 @@
-## Practice Project: Building a spam classifier
+## Practice Project: Building a Spam Classifier
 
 ### Introduction
 
