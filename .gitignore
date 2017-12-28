@@ -2,4 +2,4 @@
 .project
 .pydevproject
 
-other_projects/titanic_survival_exploration/*.pyc
+warmup_projects/titanic_survival_exploration/*.pyc
