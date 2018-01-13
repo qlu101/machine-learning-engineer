@@ -1,5 +1,3 @@
 .git
 .project
 .pydevproject
-
-warmup_projects/titanic_survival_exploration/*.pyc
