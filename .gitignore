@@ -1,9 +1,3 @@
 .git
 .project
 .pydevproject
-
-warmup_projects/titanic_survival_exploration/*.pyc
-warmup_projects/titanic_survival_exploration/.ipynb_checkpoints
-
-1_boston_housing/*.pyc
-1_boston_housing/.ipynb_checkpoints
